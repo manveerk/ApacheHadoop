@@ -7,27 +7,16 @@ Chromosome	Base pairs
 
 
 1 | 248,956,422 
---- | --- 
 2	|242,193,529
---- | --- 
 3	|198,295,559
---- | --- 
 4	|190,214,555
---- | --- 
 5	|181,538,259
---- | --- 
 6	|170,805,979
---- | --- 
 7	|159,345,973
---- | --- 
 8	|145,138,636
---- | --- 
 9	|138,394,717
---- | --- 
 10|	133,797,422
---- | --- 
 11|	135,086,622
---- | --- 
 12	|133,275,309
 13	|114,364,328
 14	|107,043,718
@@ -41,6 +30,8 @@ Chromosome	Base pairs
 22|	50,818,468
 X	|156,040,895
 Y	|57,227,415
+
+
 Table 1: The number of base pairs of each human chromosome
 There is a biological experiment, which can detect interactions between chromosome regions. For example, the following is one example of an interaction between two chromosome regions from the input file named “interactions”:
 1	566111	571111	5	99380374	99385374
