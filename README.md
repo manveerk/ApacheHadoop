@@ -49,8 +49,9 @@ it is also falling into the bin 6 and the bin 9,792. So, for the bin pair (bin 6
 Please write a Map Reduce program to count the number of interactions falling into the corresponding bin pairs in the input file. Save the bin pairs and their numbers of interactions (frequencies) to the Hadoop distributed file system. You can save bin pairs and frequencies in this format: (6, 9792)		2 
 
 If input file is like:
-1          566111            571111            5          99380374        99385374 
-5          99380372        99385372        1          566114            571114
+|1      |    566111   |         571111      |      5  |        99380374    |    99385374 |
+|-------|-------------|---------------------|---------|--------------------|-------------|
+|5      |    99380372  |      99385372      |  1        |  566114          |  571114|
 the output file should be like:
 (6, 9792)	2
 Note: some rows in  input file are invalid. For example, 
