@@ -5,7 +5,8 @@ A cell of human being contains 23 pairs of chromosomes (from chromosome 1 to chr
 Chromosome	Base pairs
 
 
-
+|Chromosome|Base pairs|
+|----------|----------|
 1 | 248,956,422 
 2	|242,193,529
 3	|198,295,559
