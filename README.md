@@ -3,7 +3,13 @@
 # Biological Data Counting
 A cell of human being contains 23 pairs of chromosomes (from chromosome 1 to chromosome 22, XX for female and XY for male). In Table 1, it contains the number of base pairs of each chromosome.  A base pair is a basic building block or unit of a chromosome. For example, the chromosome 3 contains 198,295,559 base pairs. Therefore, on the chromosome 3, the first base pair is indexed as 1 and the last base pair is indexed as 198,295,559. Other chromosomes can be indexed in the same way.
 Chromosome	Base pairs
-1	248,956,422
+
+
+
+#1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11 | #12
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+248,956,422 | 242,193,529 | 198,295,559 | 190,214,555 | 181,538,259 | 170,805,979 | 159,345,973 | 145,138,636 | 138,394,717 | 133,797,422 | 135,086,622 | 133,275,309
+#1	248,956,422
 2	242,193,529
 3	198,295,559
 4	190,214,555
